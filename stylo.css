@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62,5%;
+}
+
+.main{
+    margin: 15px;
+}
+
+.container{
+    margin-top: 15px;
+}
+img{
+    min-height: 350px;
+    margin: 5px;
+
+}
